@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/g2plot": "^0.11.32",
+    "lodash": "^4.17.15"
+  },
+  "keywords": [],
+  "name": "antvg2-polt",
+  "description": "antvg2-polt"
+}

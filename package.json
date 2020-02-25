@@ -1,0 +1,20 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/g2plot": "^0.11.32",
+    "lodash": "^4.17.15"
+  },
+  "keywords": [],
+  "name": "antvg2-polt",
+  "description": "antvg2-polt",
+  "version": "0.0.96",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
